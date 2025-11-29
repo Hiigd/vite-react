@@ -1,12 +1,4 @@
 {
-<<<<<<< HEAD
-  "files": [],
-  "references": [
-    { "path": "./tsconfig.app.json" },
-    { "path": "./tsconfig.node.json" }
-  ]
-}
-=======
   "compilerOptions": {
     "target": "ES2022",
     "experimentalDecorators": true,
@@ -35,4 +27,3 @@
     "noEmit": true
   }
 }
->>>>>>> 566ea60 (أول دفعة، الله يستر)
