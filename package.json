@@ -1,10 +1,15 @@
 {
+<<<<<<< HEAD
   "name": "vite-react",
+=======
+  "name": "seismic-slides",
+>>>>>>> 566ea60 (أول دفعة، الله يستر)
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+<<<<<<< HEAD
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
@@ -25,5 +30,21 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
     "vite": "^5.4.1"
+=======
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "recharts": "^3.5.1",
+    "lucide-react": "^0.555.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+>>>>>>> 566ea60 (أول دفعة، الله يستر)
   }
 }
